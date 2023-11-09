@@ -55,6 +55,9 @@
                 <div class="sidebar-brand-text mx-3">Doctor Store</div>
             </a>
 
+            <!-- Divider -->
+            <hr class="sidebar-divider d-none d-md-block">
+
             <!-- Heading -->
             <div class="sidebar-heading">
                 Produtos
